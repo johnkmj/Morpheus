@@ -2,7 +2,7 @@
 This guide serves to walk users through the process of using the MorStats.info dashboard and analytics. It also includes several key sections of code for others wanting to build similar dashboards and analytics.
 
 ## Background
-MorStats.info serves as a home page for capital providers. It offers real-time data and analytics for capital providers. It is often referenced by the discord community as a reference for new users or those looking for more information on the capital providing during the bootstraph period.
+MorStats.info serves as a home page for capital providers. It offers real-time data and analytics for capital providers. It is often referenced by the Discord community as a reference for new users or those looking for more information on the capital providing during the bootstrap period.
 
 ## Home Page
 The landing page provides the following six key pieces of data:
